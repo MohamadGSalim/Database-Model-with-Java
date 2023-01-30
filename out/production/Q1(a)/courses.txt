@@ -1,0 +1,3 @@
+Comp352,Data structures,3
+Soen390,Mini capstone,3.5
+Comp353,Databases,4
